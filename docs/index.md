@@ -1,7 +1,7 @@
-# Asia DevOps Conference Singapore 2025
+# Asia DevOps Conference Singapore Training Resources from Microsoft
 
 <div class="conference-header">
-  <h2><span class="flag-emoji">🇸🇬</span> Welcome to Singapore! <span class="flag-emoji">🇸🇬</span></h2>
+  <h2><span class="flag-emoji">🇸🇬</span> Welcome to Devops Singapore! <span class="flag-emoji">🇸🇬</span></h2>
   <h3>August 28, 2025</h3>
 </div>
 
