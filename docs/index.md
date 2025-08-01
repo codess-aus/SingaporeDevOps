@@ -75,29 +75,6 @@ Don't keep this knowledge to yourself! Here's how you can champion DevOps transf
   </ul>
 </div>
 
-<div class="benefits-grid">
-  <div class="benefit-item">
-    <strong>Improved collaboration</strong>
-    Between development and operations teams
-  </div>
-  <div class="benefit-item">
-    <strong>Faster time-to-market</strong>
-    With automated CI/CD pipelines
-  </div>
-  <div class="benefit-item">
-    <strong>Higher quality software</strong>
-    Through continuous testing and monitoring
-  </div>
-  <div class="benefit-item">
-    <strong>Reduced deployment risks</strong>
-    With infrastructure as code and automated rollbacks
-  </div>
-  <div class="benefit-item">
-    <strong>Enhanced team satisfaction</strong>
-    Through better tools and processes
-  </div>
-</div>
-
 ---
 
 <div class="action-section">
