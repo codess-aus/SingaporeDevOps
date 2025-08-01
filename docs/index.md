@@ -38,16 +38,16 @@ Ready to take your DevOps journey to the next level? Microsoft offers comprehens
     </a>
     <h4>🌱 DevOps Foundations</h4>
     <p>Start your DevOps journey with fundamental concepts and practices.</p>
-    <a href="https://docs.microsoft.com/en-us/learn/challenges?id=b950cd71-3566-49bc-9a03-96bf2d86ee0a" target="_blank" style="background-color: #0078d4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">Take the Challenge</a>
+    <a href="https://learn.microsoft.com/en-gb/challenges/wrojuzt8d6w6np?sharingId=3029CD893E680AF5" target="_blank" style="background-color: #0078d4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">Take the Challenge</a>
   </div>
 
   <div style="text-align: center; padding: 20px; border: 2px solid #107c10; border-radius: 10px;">
-    <a href="https://docs.microsoft.com/en-us/learn/challenges?id=971c89e8-fb4b-4e1d-8be7-4b9e4d1a8e0d" target="_blank">
+    <a href="https://learn.microsoft.com/en-gb/challenges/y21qfetrgeg1m2?sharingId=3029CD893E680AF5" target="_blank">
       <img src="assets/DevOps Intermediate.png" alt="DevOps Intermediate Badge" style="width: 150px; height: 150px; margin-bottom: 15px;">
     </a>
     <h4>📈 DevOps Intermediate</h4>
     <p>Build on your foundation with advanced automation and CI/CD practices.</p>
-    <a href="https://docs.microsoft.com/en-us/learn/challenges?id=971c89e8-fb4b-4e1d-8be7-4b9e4d1a8e0d" target="_blank" style="background-color: #107c10; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">Take the Challenge</a>
+    <a href="https://learn.microsoft.com/en-gb/challenges/qpk7sqtm0jz1ko?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank" style="background-color: #107c10; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">Take the Challenge</a>
   </div>
 
   <div style="text-align: center; padding: 20px; border: 2px solid #8661c5; border-radius: 10px;">
