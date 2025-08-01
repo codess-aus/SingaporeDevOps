@@ -1,0 +1,40 @@
+site_name: Asia DevOps Conference Singapore 2025
+site_description: Join us for the Asia DevOps Conference in Singapore on August 28, 2025
+site_author: Michelle Sandford
+site_url: https://codess-aus.github.io/SingaporeDevOps/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/michelle-sandford
+      name: LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/codess-aus
+      name: GitHub
+    - icon: fontawesome/brands/mastodon
+      link: https://bsky.app/profile/codess-aus.bsky.social
+      name: Bluesky
+
+plugins:
+  - search
