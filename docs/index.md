@@ -34,30 +34,30 @@ Ready to take your DevOps journey to the next level? Microsoft offers comprehens
 
 <div class="cards-grid">
   <div class="devops-card">
-    <a href="https://docs.microsoft.com/en-us/learn/challenges?id=b950cd71-3566-49bc-9a03-96bf2d86ee0a" target="_blank">
+    <a href="https://learn.microsoft.com/en-gb/challenges/wrojuzt8d6w6np?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank">
       <img src="assets/DevOps Foundations.png" alt="DevOps Foundations Badge">
     </a>
     <h4>🌱 DevOps Foundations</h4>
     <p>Start your DevOps journey with fundamental concepts and practices.</p>
-    <a href="https://learn.microsoft.com/en-gb/challenges/wrojuzt8d6w6np?sharingId=3029CD893E680AF5" target="_blank" class="btn-primary">Take the Challenge</a>
+    <a href="https://learn.microsoft.com/en-gb/challenges/wrojuzt8d6w6np?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank" class="btn-primary">Take the Challenge</a>
   </div>
 
   <div class="devops-card">
-    <a href="https://learn.microsoft.com/en-gb/challenges/y21qfetrgeg1m2?sharingId=3029CD893E680AF5" target="_blank">
+    <a href="https://learn.microsoft.com/en-gb/challenges/y21qfetrgeg1m2?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank">
       <img src="assets/DevOps Intermediate.png" alt="DevOps Intermediate Badge">
     </a>
     <h4>📈 DevOps Intermediate</h4>
     <p>Build on your foundation with advanced automation and CI/CD practices.</p>
-    <a href="https://learn.microsoft.com/en-gb/challenges/qpk7sqtm0jz1ko?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank" class="btn-primary">Take the Challenge</a>
+    <a href="https://learn.microsoft.com/en-gb/challenges/y21qfetrgeg1m2?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank" class="btn-primary">Take the Challenge</a>
   </div>
 
   <div class="devops-card">
-    <a href="https://docs.microsoft.com/en-us/learn/challenges?id=7a9f4b3e-2c1d-4e8f-9b6a-3d2e1f0c9b8a" target="_blank">
+    <a href="https://learn.microsoft.com/en-gb/challenges/qpk7sqtm0jz1ko?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank">
       <img src="assets/DevOps Advanced.png" alt="DevOps Advanced Badge">
     </a>
     <h4>🎯 DevOps Advanced</h4>
     <p>Master complex DevOps scenarios and enterprise-scale implementations.</p>
-    <a href="https://docs.microsoft.com/en-us/learn/challenges?id=7a9f4b3e-2c1d-4e8f-9b6a-3d2e1f0c9b8a" target="_blank" class="btn-primary">Take the Challenge</a>
+    <a href="https://learn.microsoft.com/en-gb/challenges/qpk7sqtm0jz1ko?tab-challenges-created=tab-created-upcoming&sharingId=3029CD893E680AF5" target="_blank" class="btn-primary">Take the Challenge</a>
   </div>
 </div>
 
