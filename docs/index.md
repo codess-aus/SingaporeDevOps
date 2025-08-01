@@ -89,3 +89,7 @@ Don't keep this knowledge to yourself! Here's how you can champion DevOps transf
   <p><strong>Thank you for attending the Asia DevOps Conference Singapore 2025!</strong></p>
   <p><span class="flag-emoji">🇸🇬</span> See you next year! <span class="flag-emoji">🇸🇬</span></p>
 </div>
+
+---
+
+*Last updated: August 2025*
