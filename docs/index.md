@@ -7,14 +7,14 @@
 
 ---
 
-## About Your Speaker
+## About Your Afternoon Chair
 
 <div class="speaker-section">
   <div class="speaker-profile">
     <img src="assets/1. profile pic.jpg" alt="Michelle Sandford">
     <div class="speaker-info">
       <h3>Michelle Sandford</h3>
-      <p>DevOps enthusiast and technology advocate passionate about empowering teams and organizations to embrace modern development practices. With extensive experience in cloud technologies, automation, and continuous delivery, Michelle is dedicated to helping organizations transform their development lifecycle and achieve greater efficiency through DevOps practices.</p>
+      <p>Michelle Sandford is a global developer relations leader and Microsoftie who speaks at 50+ events annually on AI, open source, cloud, and devops. She loves empowering developers and inspiring the next generation into technology careers.</p>
       
       <p><strong>Connect with Michelle:</strong></p>
       <ul class="social-links">
