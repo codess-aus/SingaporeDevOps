@@ -11,11 +11,6 @@ theme:
       accent: amber
   features:
     - navigation.instant
-    - navigation.top
-    - navigation.sections
-    - navigation.expand
-    - search.highlight
-    - search.share
     - content.code.copy
   font:
     text: Inter
@@ -26,17 +21,12 @@ markdown_extensions:
   - md_in_html
   - admonition
   - codehilite
-  - toc:
-      permalink: true
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-nav:
-  - Home: index.md
 
 extra_css:
   - stylesheets/extra.css
@@ -52,6 +42,3 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://bsky.app/profile/codess-aus.bsky.social
       name: Bluesky
-
-plugins:
-  - search

@@ -10,6 +10,39 @@
   --border-color: #e5e7eb;
 }
 
+/* Hide navigation and make content full width */
+.md-sidebar {
+  display: none !important;
+}
+
+.md-main__inner {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.md-content {
+  max-width: none !important;
+}
+
+.md-content__inner {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 1200px !important;
+  padding: 0 2rem !important;
+}
+
+/* Hide header navigation */
+.md-header__inner {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
+}
+
+.md-header-nav__source,
+.md-header-nav__button[for="__search"] {
+  display: none !important;
+}
+
 /* Override Material theme colors */
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: var(--primary-color);
@@ -150,7 +183,7 @@
 
 .speaker-info h3 {
   color: var(--primary-color);
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
 
@@ -292,6 +325,14 @@
 
 /* Responsive design */
 @media (max-width: 768px) {
+  .md-content__inner {
+    padding: 0 1rem !important;
+  }
+  
+  .md-header__inner {
+    padding: 0 1rem !important;
+  }
+  
   .speaker-profile {
     flex-direction: column;
     text-align: center;
@@ -309,6 +350,28 @@
   .social-links li {
     display: block;
     margin: 0.5rem 0;
+  }
+  
+  .conference-header {
+    padding: 2rem 1rem;
+  }
+  
+  .action-section {
+    padding: 2rem 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .md-content__inner {
+    padding: 0 0.5rem !important;
+  }
+  
+  .devops-card {
+    padding: 1.5rem;
+  }
+  
+  .speaker-section {
+    padding: 1.5rem;
   }
 }
 

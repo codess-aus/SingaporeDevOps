@@ -18,7 +18,7 @@
       
       <p><strong>Connect with Michelle:</strong></p>
       <ul class="social-links">
-        <li><a href="https://linkedin.com/in/michelle-sandford" target="_blank">🔗 LinkedIn</a></li>
+        <li><a href="https://linkedin.com/in/michellesandford" target="_blank">🔗 LinkedIn</a></li>
         <li><a href="https://github.com/codess-aus" target="_blank">🐙 GitHub</a></li>
         <li><a href="https://bsky.app/profile/codess-aus.bsky.social" target="_blank">🦋 Bluesky</a></li>
       </ul>
